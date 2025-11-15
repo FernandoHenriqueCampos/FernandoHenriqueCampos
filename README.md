@@ -8,7 +8,7 @@ Sou apaixonado por programação, atualmente curso o Serratec e busco me consoli
 
 - **JavaScript**
 - **TypeScript** (aprendendo)
-- **Python**
+- **Python** (aprendendo)
 - **React**
 - **React Native**
 - **Java**
