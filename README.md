@@ -39,7 +39,8 @@ API completa para e-commerce, desenvolvida como projeto final.
 
 ### 🔹 **Trabalho React Native**
 Aplicação mobile desenvolvida com React Native.  
-🔗 https://github.com/FernandoHenriqueCampos/Trabalho-Reactive-Native
+🔗 https://github.com/FernandoHenriqueCampos/Grupo-React-Native
+
 
 ---
 
