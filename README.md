@@ -19,7 +19,7 @@ Sou apaixonado por programação, atualmente curso o Serratec e busco me consoli
 
 <div align="center">
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHenriqueCampos&show_icons=true&theme=blueberry)
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHenriqueCampos&show_icons=true&theme=blueberry&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHenriqueCampos&layout=compact&theme=blueberry)
 
