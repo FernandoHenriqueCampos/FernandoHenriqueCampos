@@ -1,0 +1,13 @@
+# Créditos — Horizonte
+
+Composição vetorial para o perfil de Fernando Henrique Campos. Não contém fotografias da NASA, imagens de Interstellar, screenshots, marcas de terceiros ou fontes remotas.
+
+Referência e adaptação de técnicas do projeto [Awesome GitHub Profile](https://github.com/beydemirfurkan/awesome-github-profile): Tech Sphere (luz de borda, sombreamento radial, elipses, SMIL), Dark Elegant (linhas e hierarquia), Aurora Veil (profundidade atmosférica), Analytics Grid (hierarquia de dados), Editorial Magazine (tipografia) e Blueprint Schematic (conectores).
+
+O código foi recomposto para o conteúdo e a direção Horizonte. Embora vários READMEs de templates mencionem CC0, a licença da raiz do repositório é MIT. Por cautela, a licença e o aviso de copyright foram conservados integralmente em [LICENSE-reference.txt](LICENSE-reference.txt).
+
+Foto `../../profile.png`: fornecida pelo titular; usada na seção Sobre do README, com os bytes originais preservados. Não foi incorporada ou alterada nas quatro peças aprovadas.
+
+Complementos da integração: `about-heading`, `focus`, `projects`, `exploration`, `telemetry` e `beyond`, com versões móveis, seguem os mesmos tokens e funções do sistema aprovado.
+
+Dados de telemetria: API pública do GitHub; fontes, escopo e momento da coleta documentados em `telemetry.json`. A descrição do Adote Já e a contribuição de Fernando foram verificadas no [README público do projeto](https://github.com/FernandoHenriqueCampos/Grupo-React-Native).

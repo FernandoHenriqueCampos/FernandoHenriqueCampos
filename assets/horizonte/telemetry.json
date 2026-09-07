@@ -1,0 +1,193 @@
+{
+  "username": "FernandoHenriqueCampos",
+  "collected_at": "2026-09-07T03:24:19+00:00",
+  "sources": [
+    "https://api.github.com/users/FernandoHenriqueCampos",
+    "https://api.github.com/users/FernandoHenriqueCampos/repos?type=owner&per_page=100&page=1"
+  ],
+  "public_repositories_including_forks": 36,
+  "public_original_repositories": 36,
+  "stars_on_public_original_repositories": 1,
+  "repositories": [
+    {
+      "name": "Avalia-o",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "avaliacao2",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Avaliacao2023",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "cardapio-vue",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "CaronaRural",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Ci-nciaDeDados",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Code-Academy",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Crud-Axios",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "FernandoHenriqueCampos",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "GeradorSenha2024",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "GerenciadorEventos-Backend",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "GerenciadorEventos-React",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "GerenciadorEventos-ReactNative",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Grupo-React-Native",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Instructions-projetct-extension",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "narrativaGr-ficos",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Proj07-ReatividadeVue",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Projeto-4---CRUD",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Projeto-Final-API-E-Commerce",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Projeto-Final-CodeAcademy",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Projeto2024",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Prova",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "PublicaIA",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "ramen-store",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Revis-o-para-Prova",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Serratec_biblioteca-api-spring",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "skills-introduction-to-git",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "smart-email-ai",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "teste",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Trabalho",
+      "fork": false,
+      "stars": 1
+    },
+    {
+      "name": "Trabalho-Desenvolvimento-Web",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Trabalho-Reactive-Native",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "Trabalho2024",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "TrabalhoFinal-BancoDeDados2025",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "WebSocket",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "YoutubeClone",
+      "fork": false,
+      "stars": 0
+    }
+  ]
+}

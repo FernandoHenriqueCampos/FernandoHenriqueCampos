@@ -1,230 +1,145 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/hero-mobile.svg">
+  <img src="./assets/horizonte/hero.svg" width="100%" alt="Fernando Henrique Campos — Full Stack Developer. Sistemas, automações e soluções corporativas. React, Next.js, FastAPI e PostgreSQL. Impacto fiscal na Michelc: aprox. 90 min → até 10 min.">
+</picture>
 
-# Fernando Henrique Campos
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/about-heading-mobile.svg">
+  <img src="./assets/horizonte/about-heading.svg" width="100%" alt="02 — Sobre mim">
+</picture>
 
-### Desenvolvedor Full Stack | Sistemas e Automações
+<img src="./profile.png" align="left" width="120" alt="Foto de Fernando Henrique Campos">
 
-Desenvolvo aplicações web e automações que simplificam processos, reduzem tarefas manuais e geram resultados para empresas.
+Sou **Fernando Henrique Campos**, Desenvolvedor **Full Stack Trainee na Michelc Assessoria Contábil** e estudante de **Tecnologia em Sistemas para Internet na UTFPR**.
 
-<p>
-  <a href="https://www.linkedin.com/in/fernando-hvc">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/FernandoHenriqueCampos">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+Minha trajetória combina formação intensiva, aprofundamento técnico contínuo e experiência profissional construindo soluções para necessidades reais de empresas. Trabalho com aplicações web, APIs, bancos de dados, autenticação, controle de acesso, automações e regras de negócio — da compreensão do problema à arquitetura, ao desenvolvimento, aos testes e à evolução dos sistemas.
 
-</div>
+<br clear="both">
 
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FernandoHenriqueCampos&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHenriqueCampos&layout=compact&hide_border=true&theme=transparent&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=FernandoHenriqueCampos&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
-
-</div>
-
----
-
-## Sobre mim
-
-Sou **Desenvolvedor Full Stack Trainee** na **Michelc Assessoria Contábil**, onde desenvolvo sistemas e automações para tornar processos internos mais rápidos, organizados e confiáveis.
-
-Atuo em todo o ciclo de desenvolvimento, desde a identificação do problema e planejamento da solução até arquitetura, interface, desenvolvimento, testes e evolução do produto.
-
-Tenho experiência prática com aplicações web, APIs, bancos de dados, autenticação, controle de acesso e automação de processos.
-
----
-
-## Experiência profissional
-
-### Desenvolvedor Full Stack Trainee
-
-**Michelc Assessoria Contábil**
-Abril de 2026 — atual · Guarapuava, Paraná
-
-* Desenvolvi uma automação fiscal com **React, Next.js, FastAPI e PostgreSQL** que reduziu de aproximadamente **1h30 para até 10 minutos** uma rotina de download, análise e cálculo de informações fiscais.
-* Estou arquitetando e desenvolvendo um ecossistema interno para centralizar o cadastro das empresas atendidas, carteiras de colaboradores, faturamento, horas trabalhadas e informações operacionais.
-* Participo de todas as etapas das soluções, incluindo levantamento de necessidades, planejamento, arquitetura, desenvolvimento, testes e melhorias.
-* Desenvolvo APIs, interfaces web, autenticação, permissões de usuários e integrações com bancos de dados.
-* Trabalho em uma equipe de desenvolvimento enxuta, contribuindo diretamente para decisões técnicas e para a estruturação das aplicações.
-
----
-
-## Tecnologias
-
-### Front-end
-
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
-</p>
-
-### Bancos de dados e infraestrutura
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
-</p>
-
----
-
-## Formação
-
-### TIC em Software
-
-**Serratec — Parque Tecnológico da Região Serrana**
-Concluído em 2025.02
-
-Formação prática em desenvolvimento full stack, APIs, aplicações web e mobile, bancos de dados, metodologias ágeis e trabalho em equipe.
-
-### Code Academy — Programação Avançada
-
-**Instituto 3C**
-
-Formação presencial em desenvolvimento de aplicações modernas, com estudos em:
-
-* Vue.js
-* JavaScript e TypeScript
-* HTML e CSS
-* Git e GitHub
-* Docker
-
----
-
-## Projeto em destaque
-
-### Aplicação mobile em React Native
-
-Aplicação mobile desenvolvida em equipe utilizando **React Native**, com componentes reutilizáveis, navegação entre telas e consumo de APIs.
-
-<p>
-  <a href="https://github.com/FernandoHenriqueCampos/Grupo-React-Native">
-    <img src="https://img.shields.io/badge/Ver_repositório-111111?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
-  </a>
-</p>
-
----
-
-## Além do código
-
-Tecnologia, jogos, xadrez, música e bateria.
-
----
-
-## Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/fernando-hvc">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/FernandoHenriqueCampos">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/focus-mobile.svg">
+  <img src="./assets/horizonte/focus.svg" width="100%" alt="Focus: Full Stack, APIs e automação. Approach: problema → sistema → impacto. Now: Systems, Architecture e DevOps.">
+</picture>
 
 <details>
-<summary><strong>English version</strong></summary>
+<summary>English introduction</summary>
 
-<br>
+I am a **Full Stack Developer Trainee at Michelc Assessoria Contábil** and an **Internet Systems student at UTFPR**. I build web applications, APIs and automations, contributing from requirements and architecture to implementation, testing and maintenance.
 
-## About me
+Using **React, Next.js, FastAPI and PostgreSQL**, I developed a tax workflow automation that reduced a manual routine from **approximately 90 minutes to up to 10 minutes**. I am currently developing an internal solution to organize processes, workflows, responsibilities, information and employee collaboration.
 
-I am a **Full Stack Developer Trainee** at **Michelc Assessoria Contábil**, where I develop systems and automations that make internal processes faster, more organized and reliable.
-
-I work throughout the development lifecycle, from problem discovery and solution planning to architecture, interface development, testing and continuous improvement.
-
-I have hands-on experience with web applications, APIs, databases, authentication, access control and process automation.
-
----
-
-## Professional experience
-
-### Full Stack Developer Trainee
-
-**Michelc Assessoria Contábil**
-April 2026 — Present · Guarapuava, Paraná, Brazil
-
-* Developed a tax process automation using **React, Next.js, FastAPI and PostgreSQL**, reducing a manual download, analysis and calculation workflow from approximately **90 minutes to up to 10 minutes**.
-* Currently architecting and developing an internal ecosystem that centralizes client company records, employee portfolios, revenue, working hours and operational information.
-* Contribute throughout the entire solution lifecycle, including requirements discovery, planning, architecture, development, testing and improvement.
-* Develop APIs, web interfaces, authentication, user permissions and database integrations.
-* Work within a small development team, contributing directly to technical decisions and application architecture.
-
----
-
-## Education
-
-### Software Information and Communication Technology
-
-**Serratec — Serra Region Technology Park**
-Completed in 2025
-
-Practical full stack development program covering APIs, web and mobile applications, databases, agile methodologies and teamwork.
-
-### Code Academy — Advanced Programming
-
-**Instituto 3C**
-
-In-person program covering Vue.js, JavaScript, TypeScript, HTML, CSS, Git, GitHub and Docker.
-
----
-
-## Featured project
-
-### React Native mobile application
-
-Team-developed mobile application built with **React Native**, featuring reusable components, screen navigation and API integration.
-
-[View repository](https://github.com/FernandoHenriqueCampos/Grupo-React-Native)
-
----
-
-## Beyond coding
-
-Technology, gaming, chess, music and drums.
+My education includes the **Serratec ICT residency (2025)**, **Code Academy at Instituto 3C (2026)** and **UTFPR (2026–present)**. I am studying SAP, architecture, infrastructure, DevOps, software engineering foundations and English. Beyond code: chess, music, drums and games.
 
 </details>
 
----
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/journey-mobile.svg">
+  <img src="./assets/horizonte/journey.svg" width="100%" alt="03 — Trajetória. 2025: Serratec. 2026: Code Academy, Instituto 3C. 2026 — atual: Michelc. 2026 — atual: UTFPR.">
+</picture>
 
-<div align="center">
+<details>
+<summary>2025 · Serratec — Residência em TIC</summary>
 
-### Evolução consistente gera resultados extraordinários.
+Durante **seis meses em período integral**, vivi uma formação imersiva em desenvolvimento Full Stack, com aplicações web e mobile, APIs, bancos de dados, versionamento, metodologias ágeis e colaboração.
 
-Melhorar 1% a cada dia produz um efeito acumulado: ao final de um ano, o resultado pode ser aproximadamente 37 vezes maior.
+A experiência foi construída sobre projetos práticos. No projeto final, participei do desenvolvimento de uma solução para uma **empresa parceira**, desde o entendimento da necessidade até planejamento, desenvolvimento, integração e entrega.
 
-</div>
+</details>
+
+<details>
+<summary>2026 · Code Academy — Instituto 3C</summary>
+
+Busquei o Code Academy para revisar e consolidar conhecimentos, aprofundar fundamentos e aprender novas tecnologias. A formação ampliou minha prática com **Vue.js, JavaScript, TypeScript, HTML, CSS, Git, GitHub e Docker**.
+
+O contato com infraestrutura fortaleceu meu interesse por **DevOps** e por compreender como aplicações são estruturadas, executadas e preparadas para diferentes ambientes.
+
+</details>
+
+<details>
+<summary>2026 — atual · Michelc Assessoria Contábil</summary>
+
+Atuo como **Desenvolvedor Full Stack Trainee**, criando, mantendo e evoluindo sistemas internos. Participo da identificação de necessidades, planejamento, arquitetura, interfaces, APIs, bancos de dados, autenticação, permissões, regras de negócio, testes e decisões técnicas.
+
+Uma rotina fiscal exigia **aproximadamente 90 minutos** de trabalho manual para reunir, analisar e calcular informações. Desenvolvi uma automação com **React, Next.js, FastAPI e PostgreSQL** que reduziu o processo para **até 10 minutos**, diminuindo a intervenção manual.
+
+Também implemento funcionalidades e corrijo problemas em aplicações existentes, considerando os processos que já dependem delas.
+
+Atualmente trabalho em uma **solução interna em desenvolvimento** para organizar **processos, fluxos, responsabilidades, informações e colaboração entre funcionários**, combinando gestão de processos com elementos de uma rede social corporativa interna. O trabalho envolve compreender a operação, transformar necessidades em requisitos e tomar decisões de arquitetura tecnicamente viáveis.
+
+</details>
+
+<details>
+<summary>2026 — atual · UTFPR — Tecnologia em Sistemas para Internet</summary>
+
+Escolhi a graduação para aprofundar os conhecimentos que a prática profissional começou a exigir: **algoritmos, raciocínio computacional, fundamentos, arquitetura, bancos de dados, redes, infraestrutura e engenharia de software**.
+
+Quero fortalecer também arquitetura, infraestrutura e DevOps. Meu objetivo vai além de conhecer frameworks: compreender **como sistemas funcionam, por que decisões técnicas são tomadas e como aplicações são executadas e mantidas**. A graduação complementa a experiência prática com uma base ligada à tecnologia e à engenharia.
+
+</details>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/horizonte/technologies-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/horizonte/technologies-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/technologies-mobile.svg">
+  <img src="./assets/horizonte/technologies.svg" width="100%" alt="04 — Tecnologias. Interface: React, Next.js, Vue.js, React Native, TypeScript, JavaScript. Backend: Python, FastAPI, Java, Spring. Data: PostgreSQL, Supabase, SQLite. Infrastructure: Docker, Git, GitHub.">
+</picture>
+
+<details>
+<summary>Consultar a stack em texto</summary>
+
+**Interface** · React · Next.js · Vue.js · React Native · TypeScript · JavaScript  
+**Backend** · Python · FastAPI · Java · Spring  
+**Data** · PostgreSQL · Supabase · SQLite  
+**Infrastructure** · Docker · Git · GitHub
+
+</details>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/projects-mobile.svg">
+  <img src="./assets/horizonte/projects.svg" width="100%" alt="05 — Projetos. Adote Já: aplicativo React Native de adoção e cuidados com pets, desenvolvido em equipe. Michelc: solução interna em desenvolvimento para organizar processos, fluxos, informações e colaboração entre funcionários.">
+</picture>
+
+[**Adote Já — explorar o repositório ↗**](https://github.com/FernandoHenriqueCampos/Grupo-React-Native)
+
+Aplicativo desenvolvido em equipe, com componentes reutilizáveis, navegação e integração com APIs. Reúne adoção responsável, cursos e shopping. Minha contribuição inclui **Admin, Shop, Sobre, Perfil e Notificação**, conforme a documentação do projeto.
+
+Na **Michelc**, a solução de processos continua **em desenvolvimento**. A apresentação aqui é conceitual; código e informações internas permanecem privados.
+
+<!-- Capturas reais opcionais: assets/projects/react-native-home.png e react-native-flow.png (retrato, preferencialmente 1080 × 1920). Michelc: somente imagem autorizada e anonimizada. Não adicionar imagens fictícias. -->
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/exploration-mobile.svg">
+  <img src="./assets/horizonte/exploration.svg" width="100%" alt="06 — Atualmente estudando. SAP: ERP, processos empresariais e sistemas corporativos. Arquitetura e DevOps: infraestrutura, deployment, observabilidade e ciclo de vida. Fundamentos: algoritmos, engenharia de software, bancos de dados e redes. Inglês: documentação, leitura e comunicação.">
+</picture>
+
+<details>
+<summary>Exploração atual em texto</summary>
+
+**SAP** · ERP · processos empresariais · sistemas corporativos  
+**Architecture / DevOps** · Infraestrutura · deployment · observabilidade · ciclo de vida  
+**Foundations** · Algoritmos · engenharia de software · modelagem · bancos de dados · redes  
+**English** · Documentação · leitura · comunicação
+
+</details>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/telemetry-mobile.svg">
+  <img src="./assets/horizonte/telemetry.svg" width="100%" alt="07 — GitHub Stats / Telemetria. Contagens públicas de repositórios, repositórios originais e estrelas. A imagem informa a data de coleta; os valores e as fontes estão no link abaixo.">
+</picture>
+
+<sub>[Dados e data da coleta](./assets/horizonte/telemetry.json) · [Repositórios no GitHub ↗](https://github.com/FernandoHenriqueCampos?tab=repositories). Estrelas somadas somente nos repositórios públicos originais, sem forks.</sub>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/beyond-mobile.svg">
+  <img src="./assets/horizonte/beyond.svg" width="100%" alt="Além do código: xadrez, música e bateria, jogos, tecnologia, sistemas e aprendizado contínuo.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/footer-mobile.svg">
+  <img src="./assets/horizonte/footer.svg" width="100%" alt="08 — Contato. Transformando problemas em sistemas, uma solução de cada vez.">
+</picture>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernando-hvc">LinkedIn ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/FernandoHenriqueCampos">GitHub ↗</a>
+</p>
