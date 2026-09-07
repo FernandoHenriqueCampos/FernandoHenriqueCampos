@@ -13,3 +13,5 @@ Complementos da integração: `about-heading`, `focus`, `projects`, `exploration
 Dados de telemetria: API pública do GitHub; fontes, escopo e momento da coleta documentados em `telemetry.json`. A descrição do Adote Já e a contribuição de Fernando foram verificadas no [README público do projeto](https://github.com/FernandoHenriqueCampos/Grupo-React-Native).
 
 Card compacto da stack: ícones do [Devicon](https://github.com/devicons/devicon), licença MIT, copyright (c) 2015 konpa. Originais locais em `icons/`, com licença integral em `icons/LICENSE`. As formas foram incorporadas aos SVGs do card em ciano para acompanhar a paleta Horizonte. React Native compartilha o símbolo React. Os ícones identificam tecnologias, sem indicar afiliação ou endosso.
+
+Cards da trajetória: ícones vetoriais ilustrativos de formação, código, empresa e estudos, desenhados para o sistema Horizonte. Não são logotipos oficiais de Serratec, Instituto 3C, Michelc ou UTFPR.

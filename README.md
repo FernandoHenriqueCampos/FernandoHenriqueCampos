@@ -37,45 +37,25 @@ My education includes the **Serratec ICT residency (2025)**, **Code Academy at I
   <img src="./assets/horizonte/journey.svg" width="100%" alt="03 — Trajetória. 2025: Serratec. 2026: Code Academy, Instituto 3C. 2026 — atual: Michelc. 2026 — atual: UTFPR.">
 </picture>
 
-<details>
-<summary>2025 · Serratec — Residência em TIC</summary>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/journey-serratec-mobile.svg">
+  <img src="./assets/horizonte/journey-serratec.svg" width="100%" alt="2025 · Serratec · Residência em TIC. Formação imersiva Full Stack: seis meses em período integral, com projetos práticos e colaboração. Aplicações web e mobile, APIs, bancos de dados, versionamento e metodologias ágeis. Projeto final para uma empresa parceira: da compreensão da necessidade ao planejamento, desenvolvimento, integração e entrega.">
+</picture>
 
-Durante **seis meses em período integral**, vivi uma formação imersiva em desenvolvimento Full Stack, com aplicações web e mobile, APIs, bancos de dados, versionamento, metodologias ágeis e colaboração.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/journey-code-academy-mobile.svg">
+  <img src="./assets/horizonte/journey-code-academy.svg" width="100%" alt="2026 · Code Academy · Instituto 3C. Revisão e consolidação de conhecimentos, aprofundamento de fundamentos e aprendizado de novas tecnologias. Vue.js, JavaScript, TypeScript, HTML, CSS, Git, GitHub e Docker. O contato com infraestrutura fortaleceu meu interesse por DevOps e por como aplicações são estruturadas, executadas e preparadas para diferentes ambientes.">
+</picture>
 
-A experiência foi construída sobre projetos práticos. No projeto final, participei do desenvolvimento de uma solução para uma **empresa parceira**, desde o entendimento da necessidade até planejamento, desenvolvimento, integração e entrega.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/journey-michelc-mobile.svg">
+  <img src="./assets/horizonte/journey-michelc.svg" width="100%" alt="2026 — ATUAL · Michelc · Assessoria Contábil. Impacto fiscal: aprox. 90 min → até 10 min. Full Stack Trainee: criação, manutenção e evolução de sistemas internos; novas funcionalidades e correções em aplicações existentes. Atuação em necessidades, planejamento, arquitetura, interfaces, APIs, bancos de dados, autenticação, permissões, regras de negócio, testes e decisões técnicas. Automação fiscal com React, Next.js, FastAPI e PostgreSQL para reunir, analisar e calcular informações, reduzindo a intervenção manual. Em desenvolvimento: solução interna para organizar processos, fluxos, responsabilidades, informações e colaboração entre funcionários, com elementos de uma rede social corporativa. Da compreensão da operação à definição de requisitos e decisões de arquitetura tecnicamente viáveis.">
+</picture>
 
-</details>
-
-<details>
-<summary>2026 · Code Academy — Instituto 3C</summary>
-
-Busquei o Code Academy para revisar e consolidar conhecimentos, aprofundar fundamentos e aprender novas tecnologias. A formação ampliou minha prática com **Vue.js, JavaScript, TypeScript, HTML, CSS, Git, GitHub e Docker**.
-
-O contato com infraestrutura fortaleceu meu interesse por **DevOps** e por compreender como aplicações são estruturadas, executadas e preparadas para diferentes ambientes.
-
-</details>
-
-<details>
-<summary>2026 — atual · Michelc Assessoria Contábil</summary>
-
-Atuo como **Desenvolvedor Full Stack Trainee**, criando, mantendo e evoluindo sistemas internos. Participo da identificação de necessidades, planejamento, arquitetura, interfaces, APIs, bancos de dados, autenticação, permissões, regras de negócio, testes e decisões técnicas.
-
-Uma rotina fiscal exigia **aproximadamente 90 minutos** de trabalho manual para reunir, analisar e calcular informações. Desenvolvi uma automação com **React, Next.js, FastAPI e PostgreSQL** que reduziu o processo para **até 10 minutos**, diminuindo a intervenção manual.
-
-Também implemento funcionalidades e corrijo problemas em aplicações existentes, considerando os processos que já dependem delas.
-
-Atualmente trabalho em uma **solução interna em desenvolvimento** para organizar **processos, fluxos, responsabilidades, informações e colaboração entre funcionários**, combinando gestão de processos com elementos de uma rede social corporativa interna. O trabalho envolve compreender a operação, transformar necessidades em requisitos e tomar decisões de arquitetura tecnicamente viáveis.
-
-</details>
-
-<details>
-<summary>2026 — atual · UTFPR — Tecnologia em Sistemas para Internet</summary>
-
-Escolhi a graduação para aprofundar os conhecimentos que a prática profissional começou a exigir: **algoritmos, raciocínio computacional, fundamentos, arquitetura, bancos de dados, redes, infraestrutura e engenharia de software**.
-
-Quero fortalecer também arquitetura, infraestrutura e DevOps. Meu objetivo vai além de conhecer frameworks: compreender **como sistemas funcionam, por que decisões técnicas são tomadas e como aplicações são executadas e mantidas**. A graduação complementa a experiência prática com uma base ligada à tecnologia e à engenharia.
-
-</details>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/journey-utfpr-mobile.svg">
+  <img src="./assets/horizonte/journey-utfpr.svg" width="100%" alt="2026 — ATUAL · UTFPR · Tecnologia em Sistemas para Internet. Graduação escolhida para aprofundar os conhecimentos que a prática profissional começou a exigir. Algoritmos, raciocínio computacional, fundamentos, arquitetura, bancos de dados, redes, infraestrutura e engenharia de software. Aprofundamento em DevOps para entender como sistemas funcionam, por que decisões técnicas são tomadas e como aplicações são executadas e mantidas. Uma base em tecnologia e engenharia que complementa a experiência prática, para ir além dos frameworks.">
+</picture>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/horizonte/technologies-mobile-static.svg">
