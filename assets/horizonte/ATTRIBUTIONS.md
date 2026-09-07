@@ -6,7 +6,7 @@ Referência e adaptação de técnicas do projeto [Awesome GitHub Profile](https
 
 O código foi recomposto para o conteúdo e a direção Horizonte. Embora vários READMEs de templates mencionem CC0, a licença da raiz do repositório é MIT. Por cautela, a licença e o aviso de copyright foram conservados integralmente em [LICENSE-reference.txt](LICENSE-reference.txt).
 
-Foto `../../profile.png`: fornecida pelo titular; usada na seção Sobre do README, com os bytes originais preservados. Não foi incorporada ou alterada nas quatro peças aprovadas.
+Foto `../images/profile/profile.png`: fornecida pelo titular; usada na seção Sobre do README, com os bytes originais preservados. Não foi incorporada ou alterada nas quatro peças aprovadas.
 
 Complementos da integração: `about-heading`, `focus`, `projects`, `exploration`, `telemetry` e `beyond`, com versões móveis, seguem os mesmos tokens e funções do sistema aprovado.
 

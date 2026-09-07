@@ -8,7 +8,7 @@
   <img src="./assets/horizonte/about-heading.svg" width="100%" alt="02 — Sobre mim">
 </picture>
 
-<img src="./profile.png" align="left" width="120" alt="Foto de Fernando Henrique Campos">
+<img src="./assets/images/profile/profile.png" align="left" width="120" alt="Foto de Fernando Henrique Campos">
 
 Sou **Fernando Henrique Campos**, Desenvolvedor **Full Stack Trainee na Michelc Assessoria Contábil** e estudante de **Tecnologia em Sistemas para Internet na UTFPR**.
 
