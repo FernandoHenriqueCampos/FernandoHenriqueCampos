@@ -84,15 +84,10 @@ Quero fortalecer também arquitetura, infraestrutura e DevOps. Meu objetivo vai 
   <img src="./assets/horizonte/technologies.svg" width="100%" alt="04 — Tecnologias. Interface: React, Next.js, Vue.js, React Native, TypeScript, JavaScript. Backend: Python, FastAPI, Java, Spring. Data: PostgreSQL, Supabase, SQLite. Infrastructure: Docker, Git, GitHub.">
 </picture>
 
-<details>
-<summary>Consultar a stack em texto</summary>
-
-**Interface** · React · Next.js · Vue.js · React Native · TypeScript · JavaScript  
-**Backend** · Python · FastAPI · Java · Spring  
-**Data** · PostgreSQL · Supabase · SQLite  
-**Infrastructure** · Docker · Git · GitHub
-
-</details>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/horizonte/stack-card-mobile.svg">
+  <img src="./assets/horizonte/stack-card.svg" width="100%" alt="Stack com ícones. Interface: React, Next.js, Vue.js, React Native, TypeScript e JavaScript. Backend: Python, FastAPI, Java e Spring. Data: PostgreSQL, Supabase e SQLite. Infrastructure: Docker, Git e GitHub.">
+</picture>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/horizonte/projects-mobile.svg">
