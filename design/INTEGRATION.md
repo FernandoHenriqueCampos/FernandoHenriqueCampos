@@ -12,7 +12,7 @@ O texto profissional preserva cargo trainee, graduação, ordem da trajetória, 
 
 Modificados: `README.md` e `assets/horizonte/ATTRIBUTIONS.md`.
 
-Adicionados: `design/build_sections.py`, `design/update_telemetry.py`, `design/prepare_github_preview.py`, `design/check_integration.py`, `design/integration-baseline.json`, este relatório e `.github/workflows/telemetry.yml`.
+Adicionados: `design/build_sections.py`, `design/update_telemetry.py`, `design/prepare_github_preview.py`, `design/check_integration.py`, `design/integration-baseline.json` e este relatório. O workflow semanal inicialmente preparado foi removido antes da publicação, conforme a escolha do titular. Não há automação agendada.
 
 Novos assets em `assets/horizonte/`: `about-heading.svg`, `focus.svg`, `projects.svg`, `exploration.svg`, `telemetry.svg`, `beyond.svg` e suas seis versões `-mobile.svg`, além de `telemetry.json` com dados e fontes.
 
@@ -35,13 +35,15 @@ Assets reutilizados sem alteração: `hero.svg`, `journey.svg`, `technologies.sv
 
 Um painel com contagens públicas de repositórios (incluindo forks), repositórios originais (sem forks) e estrelas recebidas apenas nos originais. O horário de coleta fica visível e `telemetry.json` permite auditar os valores. Não mede produtividade, velocidade ou proficiência.
 
-`python design/update_telemetry.py` consulta a API pública, segue paginação e gera o painel. `--from-snapshot` permite reproduzir os SVGs a partir do JSON salvo. Falhas de rede não substituem dados por zeros. A Action agenda atualização semanal e permite execução manual, com permissão de escrita somente em conteúdo. Nenhum PAT é necessário para consultar os dados públicos.
+`python design/update_telemetry.py` consulta a API pública, segue paginação e gera o painel manualmente. `--from-snapshot` permite reproduzir os SVGs a partir do JSON salvo. Falhas de rede não substituem dados por zeros. Nenhum PAT é necessário para consultar os dados públicos. Para atualizar o painel publicado, é necessário executar o script e enviar os três arquivos `telemetry.json`, `telemetry.svg` e `telemetry-mobile.svg`. Não existe atualização automática ou agendamento.
 
 ## Validação
 
 22 SVGs foram renderizados como imagens no Chrome, com verificação dos limites dos textos. O README completo foi processado pela API de Markdown do GitHub: 10 elementos `picture`, 12 `source` e 7 `details` foram preservados.
 
 Testes em 1440, 768, 390 e 320 px verificam carregamento de imagens, ausência de transbordamento horizontal no README, escolha de variantes móveis, abertura dos sete detalhes e seleção estática para movimento reduzido. A revisão visual inclui desktop e celular. Os PNGs e relatórios locais ficam em `design/integration/`.
+
+Os mesmos testes passaram na [página real da branch no GitHub](https://github.com/FernandoHenriqueCampos/FernandoHenriqueCampos/tree/codex/horizonte-integration-20260907). Evidência local: `design/integration/github-validation.json`. São testes de navegador em larguras móveis, não testes no aplicativo nativo do GitHub.
 
 ## Assets anteriores sem uso no README
 
