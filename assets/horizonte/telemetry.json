@@ -1,12 +1,12 @@
 {
   "username": "FernandoHenriqueCampos",
-  "collected_at": "2026-09-07T03:24:19+00:00",
+  "collected_at": "2026-11-01T15:15:17+00:00",
   "sources": [
     "https://api.github.com/users/FernandoHenriqueCampos",
     "https://api.github.com/users/FernandoHenriqueCampos/repos?type=owner&per_page=100&page=1"
   ],
-  "public_repositories_including_forks": 36,
-  "public_original_repositories": 36,
+  "public_repositories_including_forks": 37,
+  "public_original_repositories": 37,
   "stars_on_public_original_repositories": 1,
   "repositories": [
     {
@@ -46,6 +46,11 @@
     },
     {
       "name": "Crud-Axios",
+      "fork": false,
+      "stars": 0
+    },
+    {
+      "name": "estudos-typescript",
       "fork": false,
       "stars": 0
     },
