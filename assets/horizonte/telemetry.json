@@ -1,14 +1,19 @@
 {
   "username": "FernandoHenriqueCampos",
-  "collected_at": "2026-11-11T16:15:42+00:00",
+  "collected_at": "2026-11-12T16:51:32+00:00",
   "sources": [
     "https://api.github.com/users/FernandoHenriqueCampos",
     "https://api.github.com/users/FernandoHenriqueCampos/repos?type=owner&per_page=100&page=1"
   ],
-  "public_repositories_including_forks": 38,
-  "public_original_repositories": 38,
+  "public_repositories_including_forks": 39,
+  "public_original_repositories": 39,
   "stars_on_public_original_repositories": 1,
   "repositories": [
+    {
+      "name": "atividadeGit",
+      "fork": false,
+      "stars": 0
+    },
     {
       "name": "aulaGit",
       "fork": false,
